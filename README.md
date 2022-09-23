@@ -1,6 +1,6 @@
 # SQL Server Data Tools
 
-[![sql server data tools](redd.png)](https://github.com/coreencode/sql.server.data.tools)
+[![sql server data tools](redd.png)](https://icncomputer.com/sql-server-data-tools/)
 
 
 A client tool is required for any SQL Server DBA, Developer, or end-user to connect to SQL Server and utilize its functionalities. This is where  SQL Server Data Tools (SSDT) helps you. You can leverage SSDT to create database projects in Visual Studio.
